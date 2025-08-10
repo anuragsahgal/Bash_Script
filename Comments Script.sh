@@ -5,7 +5,7 @@
 # Crating Date = 11/08/2025
 ###############
 
-#How to use Single line comments & Multi line comments
+#Way to use Single line comments & Multi line comments
 
 #This is a single line comment
 Echo "Checking Comment"
