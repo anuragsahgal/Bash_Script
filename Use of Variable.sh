@@ -22,4 +22,9 @@ Owner=$(whoami)
 
 echo "This machine name is $machinename and belongs to $Owner"
 
-#Put cmd as this for use '$(cmd)'
+#Put cmd as this for use "$(cmd)"
+
+#Use a fix variable (Readonly)
+readonly Name=Anurag Sahgal
+Name=Vikas
+echo "My Name is $Name"
